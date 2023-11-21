@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Mick Schumacher",
+    "driverId": "1",
+    "familyName": "Schumacher",
+    "givenName": "Mick",
+    "nationality": "German",
+    "dateOfBirth": "2 March 1999"
+  },
+  {
+    "name": "Fernando Alonso",
+    "driverId": "2",
+    "familyName": "Alonso",
+    "givenName": "Fernando",
+    "nationality": "Spanish",
+    "dateOfBirth": "29 July 1981"
+  },
+  {
+    "name": "Checo",
+    "driverId": "3",
+    "familyName": "Perez",
+    "givenName": "Sergio",
+    "nationality": "Mexico",
+    "dateOfBirth": "26 January 1990"
+  },
+  {
+    "name": "Max Verstappen",
+    "driverId": "4",
+    "familyName": "Verstappen",
+    "givenName": "Max",
+    "nationality": "Dutch",
+    "dateOfBirth": "30 September 1997"
+  },
+  {
+    "name": "Lewis Hamilton",
+    "driverId": "5",
+    "familyName": "Hamilton",
+    "givenName": "Lewis",
+    "nationality": "British",
+    "dateOfBirth": "7 January 1985"
+  },
+  {
+    "name": "Danny",
+    "driverId": "6",
+    "familyName": "Ricciardo",
+    "givenName": "Daniel",
+    "nationality": "Italian",
+    "dateOfBirth": "1 July 1989"
+  },
+  {
+    "name": "Choirul",
+    "driverId": "7",
+    "familyName": "Charles",
+    "givenName": "Lecrec",
+    "nationality": "Monaco",
+    "dateOfBirth": "16 October 1997"
+  },
+  {
+    "name": "George Russell",
+    "driverId": "8",
+    "familyName": "George",
+    "givenName": "Russell",
+    "nationality": "British",
+    "dateOfBirth": "15 March 1998"
+  },
+  {
+    "name": "Bottas",
+    "driverId": "9",
+    "familyName": "Valtteri",
+    "givenName": "Bottas",
+    "nationality": "Finland",
+    "dateOfBirth": "28 August 1989"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "circuitId": "1",
+    "circuitName": "Circuit of the Americas",
+    "Location": {
+      "locality": "Texas",
+      "country": "USA"
+    }
+  },
+  {
+    "circuitId": "2",
+    "circuitName": "Circuit de Monaco",
+    "Location": {
+      "locality": "Monaco",
+      "country": "Monaco"
+    }
+  },
+  {
+    "circuitId": "3",
+    "circuitName": "Autodromo Nazionale Monza",
+    "Location": {
+      "locality": "Milan",
+      "country": "Italia"
+    }
+  },
+  {
+    "circuitId": "4",
+    "circuitName": "Bahrain International Circuit",
+    "Location": {
+      "locality": "Sakhir",
+      "country": "Bahrain"
+    }
+  },
+  {
+    "circuitId": "5",
+    "circuitName": "Marina Bay Circuit",
+    "Location": {
+      "locality": "Marina Bay",
+      "country": "Singapore"
+    }
+  },
+  {
+    "circuitId": "6",
+    "circuitName": "Suzuka",
+    "Location": {
+      "locality": "Sakito",
+      "country": "Japan"
+    }
+  },
+  {
+    "circuitId": "7",
+    "circuitName": "Autódromo José Carlos Pace",
+    "Location": {
+      "locality": "Interlagos",
+      "country": "Brazil"
+    }
+  },
+  {
+    "circuitId": "8",
+    "circuitName": "Autódromo Hermanos Rodríguez",
+    "Location": {
+      "locality": "Mexico City",
+      "country": "Mexico"
+    }
+  },
+  {
+    "circuitId": "9",
+    "circuitName": "Red Bull Ring",
+    "Location": {
+      "locality": "Speilberg",
+      "country": "Austria"
+    }
+  },
+  {
+    "circuitId": "10",
+    "circuitName": "Circuit Gilles-Villeneuve",
+    "Location": {
+      "locality": "Montreal",
+      "country": "Canada"
+    }
+  }
+]
